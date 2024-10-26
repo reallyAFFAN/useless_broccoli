@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Match</title>
+    <link rel="stylesheet" href="styles2.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🎶 Music Match 🎶</h1>
+        <p>Find others who share your taste in music!</p>
+
+        <form id="userForm">
+            <label for="name">Name:</label>
+            <input type="text" id="name" required>
+
+            <label for="genre">Favorite Music Genre:</label>
+            <input type="text" id="genre" required>
+
+            <button type="button" onclick="addUser()">Add Me</button>
+        </form>
+
+        <h2>Find People With Similar Taste</h2>
+        <div id="matches"></div>
+    </div>
+
+    <script src="script2.js"></script>
+</body>
+</html>
