@@ -26,18 +26,13 @@ For Software:
 - javascript
 - css
 
-For Hardware:
 
 ### Implementation
 For Software:Music has a great value at present time.Therefore it was efficient to engage people with same musical taste.Hence we got an idea of creating a webpage of musical dating app with little knowledge of html,javascript and css, mainly by the help of chatgpt.
-# Installation
-
-
-# Run
 
 
 ### Project Documentation
-For Software:It is a prototype of music dating app in which people are matched based on their music tastes.
+For Software:It is a prototype of music dating app in which people are matched based on their music tastes,so that we can find people matching our vibe.It natuallly engages us with people with our mind and chat,call and interact with them.this is basically a mini prototype of our idea.
 
 # Screenshots (Add at least 3)
 ![Screenshot (1)](https://github.com/user-attachments/assets/7f6f7ed1-38ca-4426-9197-044299e7ca0b)
@@ -53,24 +48,12 @@ Entering the details.
 (Add screenshot 3 here with proper name)
 Showing results of people with similiar music taste.
 
-# Diagrams
-
-
-For Hardware:
-
-# Schematic & Circuit
-
-
-# Build Photos
-
 
 ### Project Demo
 # Video
 https://youtu.be/NjoaYnjBAZY?si=slKlMAHv4PiM-0pW
 Shows how to use the site and the results it gives.
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Affan: Idea
