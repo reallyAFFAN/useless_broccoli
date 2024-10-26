@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Songmate 🎯
 
 
 ## Basic Details
@@ -37,7 +37,7 @@ For Software:Music has a great value at present time.Therefore it was efficient 
 
 
 ### Project Documentation
-For Software:
+For Software:It is a prototype of music dating app in which people are matched based on their music tastes.
 
 # Screenshots (Add at least 3)
 ![Screenshot (1)](https://github.com/user-attachments/assets/7f6f7ed1-38ca-4426-9197-044299e7ca0b)
@@ -66,16 +66,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://youtu.be/NjoaYnjBAZY?si=slKlMAHv4PiM-0pW
+Shows how to use the site and the results it gives.
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Affan: Idea
+- Ashid: Code
+- Shamil: Design
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
