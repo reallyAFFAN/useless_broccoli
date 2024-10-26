@@ -4,80 +4,65 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Broccoli
 
 
 ### Team Members
-- Team Lead: Broccoli - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Affan Muhammed N - TKMCE KOLLAM
+- Member 2: Ashid D M - TKMCE KOLLAM
+- Member 3: Muhammed Shamil - TKMCE KOLLAM
 
 ### Project Description
-[2-3 lines about what your project does]
-
+A music dating app that matches people based on their music taste.
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Unable to find partners with similar vibe.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+Matching people with similar music taste.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- html
+- javascript
+- css
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
-For Software:
+For Software:Music has a great value at present time.Therefore it was efficient to engage people with same musical taste.Hence we got an idea of creating a webpage of musical dating app with little knowledge of html,javascript and css, mainly by the help of chatgpt.
 # Installation
-[commands]
+
 
 # Run
-[commands]
+
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![spiderman](https://github.com/user-attachments/assets/290169cb-13fc-4227-89cc-2dbdafac24b2)
+![Screenshot (1)](https://github.com/user-attachments/assets/7f6f7ed1-38ca-4426-9197-044299e7ca0b)
+
 (Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+Initial user interface.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot (2)](https://github.com/user-attachments/assets/81bb514d-9078-4d44-b900-bcf0aa0d0974)
+(Add screenshot 2 here with proper name)
+Entering the details.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot (3)](https://github.com/user-attachments/assets/26711db9-90aa-46d5-8900-c01ac99931a1)
+(Add screenshot 3 here with proper name)
+Showing results of people with similiar music taste.
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
