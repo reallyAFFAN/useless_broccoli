@@ -46,7 +46,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![spiderman](https://github.com/user-attachments/assets/290169cb-13fc-4227-89cc-2dbdafac24b2)
+(Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
